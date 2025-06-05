@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @techladywriter AKA Helene Voyer, 25 years of experience in software development, 22 in Java with Struts/Spring
 - 👀 I’m interested in Dart and Flutter, Android
 - 📫 How to reach me: email at techladywriter@gmail.com
--     My personal website www.helenevoyer.ca
+-     My personal website http:\\www.helenevoyer.ca
 - 😄 Pronouns: She/Her
 
 - 👋 Bonjour, je suis @techladywriter dans la vraie vie c'est Hélène Voyer, 25 ans d'experience en développement logiciel, 22 en Java avec Struts/Spring
